@@ -2,6 +2,29 @@ li {
     text-align: left;
 }
 
+a {
+    display: inline-block;
+}
+
+img[alt~="Tyk"] {
+    width: 2.6em;
+    height: 1.3em;
+    border-radius: 0 !important;
+    margin-bottom: -0.28em;
+    margin-right: 0.1em;
+}
+
+
+img[alt~="Tyk2"] {
+    width: 2.6em;
+    height: 1.3em;
+    border-radius: 0 !important;
+    margin-bottom: -0.28em;
+    margin-right: 0.1em;
+
+    margin-top: 1.1em;
+}
+
 :root {
     --gap: 24px;
     --content-gap: 20px;
