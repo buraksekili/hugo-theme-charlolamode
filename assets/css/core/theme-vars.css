@@ -1,3 +1,7 @@
+li {
+    text-align: left;
+}
+
 :root {
     --gap: 24px;
     --content-gap: 20px;
